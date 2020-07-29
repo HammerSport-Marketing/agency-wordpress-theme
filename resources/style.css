@@ -1,0 +1,15 @@
+/*
+Theme Name:         HammerSport Marketing agency WordPress theme.
+Theme URI:          https://hammersportmarketing.com
+Description:        This is our basic WordPress theme for HammerSport Marketing.
+Version:            0.0.1
+Author:             Riley Seaburg
+Author URI:         https://rileyseaburg.com
+Text Domain:        sage
+
+License:            MIT License
+License URI:        http://opensource.org/licenses/MIT
+*/
+body {
+  background-color: aliceblue;
+}
